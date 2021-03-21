@@ -1,4 +1,4 @@
-### Hi there, I'm Nahid - aka [Nahid][website] 😎
+### Hi there, I'm Robin - aka [Robin][website] 😎
 
 ## I'm a Junior Web Developer!!
 
@@ -15,11 +15,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nahidhassanbulbul.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nahidhassanbulbul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="nahidhassanbulbul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nahidhassanbulbul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left"  | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left"  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -45,13 +45,13 @@
 <br />
 
 ### GitHub Stats:
-  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0nahid&show_icons=true&theme=dark&hide_border=true" />
+  <img align="left" alt="Nahid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0robin&show_icons=true&theme=dark&hide_border=true" />
 
 
 
-[website]: https://nahidhassanbulbul.com
-[twitter]: https://twitter.com/nahidhassanbul1
-[youtube]: https://youtube.com/nahidhassanbulbul
-[instagram]: https://instagram.com/0nahid_hassan
-[linkedin]: https://linkedin.com/in/nahid-hassan-bulbul
+[website]: https://robiulislamrobin.com
+[twitter]: https://twitter.com/erobinofficial
+[youtube]: https://youtube.com/techmanner
+[instagram]: https://instagram.com/erobinofficial
+[linkedin]: https://linkedin.com/in/erobinofficial
 
