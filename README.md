@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎶
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nahid Spotify Playing" width="350" />](spotify:user:63dd0imjgpnh191p79d4xhadm:playlist:1BrRgVxz6buJ9QBltgJsYo)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nahid Spotify Playing" width="350" />](https://open.spotify.com/user/63dd0imjgpnh191p79d4xhadm/playlist/1BrRgVxz6buJ9QBltgJsYo?si=Pj73DoJ9RlK9Ag7S0YOh2A)
 
 ### Connect with me:
 
